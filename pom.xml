@@ -13,6 +13,7 @@
         <module>flight-service</module>
         <module>hotel-service</module>
         <module>train-service</module>
+        <module>compensation-service</module>
     </modules>
 
 </project>
