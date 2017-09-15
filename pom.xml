@@ -14,6 +14,20 @@
         <module>hotel-service</module>
         <module>train-service</module>
         <module>compensation-service</module>
+        <module>common</module>
     </modules>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.16.16</version>
+        </dependency>
+        <dependency>
+            <groupId>com.didispace</groupId>
+            <artifactId>spring-boot-starter-swagger</artifactId>
+            <version>1.4.1.RELEASE</version>
+        </dependency>
+    </dependencies>
 
 </project>
