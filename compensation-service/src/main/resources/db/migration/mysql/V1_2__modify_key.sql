@@ -1,0 +1,7 @@
+ALTER TABLE tb_platform ADD buz_id VARCHAR(128) NULL;
+ALTER TABLE tb_platform
+  MODIFY COLUMN buz_id VARCHAR(128) AFTER id;
+
+ALTER TABLE tb_event ADD buz_id VARCHAR(128) NULL;
+ALTER TABLE tb_event
+  MODIFY COLUMN buz_id VARCHAR(128) AFTER id;
