@@ -13,7 +13,7 @@
         <module>flight-service</module>
         <module>hotel-service</module>
         <module>train-service</module>
-        <module>compensation-service</module>
+        <module>aggregate-service</module>
         <module>common</module>
     </modules>
 
