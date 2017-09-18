@@ -1,4 +1,4 @@
-package com.lzw.flightservice.domain;
+package com.lzw.flightservice.domain.entity;
 
 import lombok.Data;
 
